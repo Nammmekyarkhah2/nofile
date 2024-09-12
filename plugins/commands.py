@@ -56,7 +56,6 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('Join Backup Group', url='https://t.me/+PZGEZNvkyAQxNDY1')
             ],[
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
             InlineKeyboardButton('🔥 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+WNYxazoVu1NkZTI9')
             ],[
             InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
